@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "Test",
+        "DB_PASSWORD": "qwerty123",
+        "DB_NAME": "MemmoryLane",
+        "GOOGLE_API_KEY": "AIzaSyDjNSpE0be9P7aLNYFF8W35s2I9GRI7tTU",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
